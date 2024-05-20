@@ -15,9 +15,9 @@ java -jar javiergs.openai.ChatbotMain
 
 Running a server shows a panel where a player control left side and received client position via socket; running a client shows the player control right side and received server position via socket.
 <p align="center">
-<IMG SRC="https://github.com/CSC308/Pong-Game/assets/3814755/e826fbdb-e2aa-4c0f-b406-71a3b883743e" WIDTH=600>
+<IMG SRC="https://github.com/CSC308/Cloud-Services/assets/3814755/c387a08b-7138-4f76-a03f-330734ad1161" WIDTH=600>
 <p>
-  
+
 ### Blueprint
 A drafted class diagram of the current release is as follows:
 <p align="center">

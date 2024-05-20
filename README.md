@@ -15,7 +15,7 @@ java -jar javiergs.openai.ChatbotMain
 
 Running a server shows a panel where a player control left side and received client position via socket; running a client shows the player control right side and received server position via socket.
 
-<img width="512" src="https://github.com/CSC308/Cloud-Services/assets/3814755/4de5e3e2-15dc-4b7e-b507-eb6bf92954a2">
+<img width="512" src="https://github.com/CSC308/Cloud-Services/assets/3814755/998616fb-8a7a-462e-820c-f6042e921587">
 
 ### Blueprint
 A drafted class diagram of the current release is as follows:

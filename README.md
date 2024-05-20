@@ -11,8 +11,7 @@ java -jar javiergs.openai.ChatbotMain
 ```
 
 ### User Interface
-A text area for the chatbot output, a text field for the user input, and a button to send the request.<br>
-
+A text area for the chatbot output, a text field for the user input, and a button to send the request.
 <img width="512" src="https://github.com/CSC308/Cloud-Services/assets/3814755/998616fb-8a7a-462e-820c-f6042e921587">
 
 ### Blueprint

@@ -19,6 +19,7 @@ java -jar javiergs.openai.ChatbotMain
 
 ### Blueprint
 A drafted class diagram of the current release is as follows:
+![Class Diagram0](https://github.com/CSC308/Cloud-Services/assets/3814755/ef97f008-ec2b-4e9c-9719-0f0eefcc0f69)
 
 
 ## Maps powered by Bing Maps API

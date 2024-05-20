@@ -23,3 +23,17 @@ A drafted class diagram of the current release is as follows:
 <p align="center">
 <IMG SRC="https://github.com/CSC308/Pong-Game/assets/3814755/9fa79653-9b90-4436-b7b9-d1e1d241870d">
 </p>
+
+## Maps powered by Bing Maps API
+
+Run it as:
+```
+java -jar javiergs
+```
+
+## Weather Report powered by AccuWeather
+
+Run it as:
+```
+java -jar javiergs
+```

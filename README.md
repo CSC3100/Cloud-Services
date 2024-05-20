@@ -19,6 +19,7 @@ A drafted class diagram of the current release is as follows:<br>
 
 <img width="512" src="https://github.com/CSC308/Cloud-Services/assets/3814755/2dfbbe4e-66eb-40b0-8368-54ce54a86ef4">
 
+![Class Diagram0](https://github.com/CSC308/Cloud-Services/assets/3814755/efc12e88-1fc8-496c-827c-2eeaa702eab8)
 
 ## Maps powered by Bing Maps API
 

@@ -4,17 +4,13 @@
 Examples of Java Desktop application connecting to cloud services using their HTTP-based API
 
 
-## Running
+## Example 1. OpenAI API
 
-To run the server run as:
+Run it as:
 ```
-java -jar javiergs.PongGameServer
+java -jar javiergs.openai.ChatbotMain
 ```
 
-To execute the client run as:
-```
-java -jar javiergs.PongGameClient
-```
 ## User Interface
 
 Running a server shows a panel where a player control left side and received client position via socket; running a client shows the player control right side and received server position via socket.

@@ -22,14 +22,6 @@ A drafted class diagram of the current release is as follows:<br>
 
 ## Maps powered by Bing Maps API
 
-Run it as:
-```
-java -jar javiergs
-```
 
 ## Weather Report powered by AccuWeather
 
-Run it as:
-```
-java -jar javiergs
-```

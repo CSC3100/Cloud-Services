@@ -24,15 +24,3 @@ A text area for the chatbot output, a text field for the user input, and a butto
 A drafted class diagram of the current release is as follows:<br>
 
 <img src="https://github.com/CSC308/Cloud-Services/assets/3814755/efc12e88-1fc8-496c-827c-2eeaa702eab8">
-
-## Maps powered by Bing Maps API
-Run it as:
-```
-
-```
-
-## Weather Report powered by AccuWeather
-Run it as:
-```
-
-```

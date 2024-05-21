@@ -13,7 +13,7 @@ import java.awt.*;
 public class ChatbotMain extends JFrame {
 	
 	public ChatbotMain() {
-		ChatbotPanel chatbotPanel = new ChatbotPanel();
+		MapsPanel chatbotPanel = new MapsPanel();
 		add(chatbotPanel);
 	}
 	
@@ -21,7 +21,7 @@ public class ChatbotMain extends JFrame {
 		ChatbotMain test = new ChatbotMain();
 		test.setTitle ("ChatBot Powered by ChatGPT");
 		test.setLayout(new GridLayout(1, 1));
-		test.setSize(400, 600);
+		test.setSize(400, 400);
 		test.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		test.setVisible(true);
 	}

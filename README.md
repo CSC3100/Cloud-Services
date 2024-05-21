@@ -23,5 +23,5 @@ A text area for the chatbot output, a text field for the user input, and a butto
 ### Blueprint
 A drafted class diagram of the current release is as follows:<br>
 <p align="center">
-<img width="600" src="https://github.com/CSC3100/Cloud-Services/assets/3814755/a12ee379-f679-473d-8204-0bf396a9a2b6">
-</p>p
+<img width="600" src="https://github.com/CSC3100/Cloud-Services/assets/3814755/c996365e-2069-4ba7-bb3a-56d8bd55140a">
+</p>

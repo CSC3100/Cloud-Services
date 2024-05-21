@@ -15,10 +15,9 @@ java -jar javiergs.Main
 
 ### User Interface
 A text area for the chatbot output, a text field for the user input, and a button to send the request.
-<img width="512" src="https://github.com/CSC308/Cloud-Services/assets/3814755/998616fb-8a7a-462e-820c-f6042e921587">
-
-<img width="600" src="https://github.com/CSC3100/Cloud-Services/assets/3814755/e4b52c43-2917-435f-a808-61ad2ade78d6">
-
+<p align="center">
+<img  src="https://github.com/CSC3100/Cloud-Services/assets/3814755/e4b52c43-2917-435f-a808-61ad2ade78d6">
+</p>
 
 
 ### Blueprint

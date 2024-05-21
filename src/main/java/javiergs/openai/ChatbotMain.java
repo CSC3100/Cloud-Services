@@ -13,7 +13,7 @@ import java.awt.*;
 public class ChatbotMain extends JFrame {
 	
 	public ChatbotMain() {
-		MapsPanel chatbotPanel = new MapsPanel();
+		ChatbotPanel chatbotPanel = new ChatbotPanel();
 		add(chatbotPanel);
 	}
 	

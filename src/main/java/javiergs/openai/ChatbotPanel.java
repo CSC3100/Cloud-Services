@@ -19,13 +19,13 @@ import java.beans.PropertyChangeListener;
  * @version 1.0
  * @author javiergs
  */
-public class MapsPanel extends JPanel implements PropertyChangeListener, ActionListener {
+public class ChatbotPanel extends JPanel implements PropertyChangeListener, ActionListener {
 	
 	private JTextPane outputArea;
 	private JTextField inputField;
 	private JButton sendButton;
 	
-	public MapsPanel() {
+	public ChatbotPanel() {
 		// output text area
 		outputArea = new JTextPane();
 		outputArea.setEditable(false);
@@ -82,6 +82,10 @@ public class MapsPanel extends JPanel implements PropertyChangeListener, ActionL
 		// enable sending
 		sendButton.setText("Send");
 		sendButton.setEnabled(true);
+	}
+	
+	public Dimension getPreferredSize() {
+		return new Dimension(400, 400);
 	}
 	
 }

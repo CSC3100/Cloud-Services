@@ -19,13 +19,13 @@ import java.beans.PropertyChangeListener;
  * @version 1.0
  * @author javiergs
  */
-public class ChatbotPanel extends JPanel implements PropertyChangeListener, ActionListener {
+public class MapsPanel extends JPanel implements PropertyChangeListener, ActionListener {
 	
 	private JTextPane outputArea;
 	private JTextField inputField;
 	private JButton sendButton;
 	
-	public ChatbotPanel() {
+	public MapsPanel() {
 		// output text area
 		outputArea = new JTextPane();
 		outputArea.setEditable(false);
@@ -69,7 +69,7 @@ public class ChatbotPanel extends JPanel implements PropertyChangeListener, Acti
 		// format the output
 		StyledDocument doc = outputArea.getStyledDocument();
 		Style styleOrange = outputArea.addStyle("Orange", null);
-		StyleConstants.setForeground(styleOrange, Color.ORANGE);
+		StyleConstants.setForeground(styleOrange, new Color(50, 100, 0, 255));
 		Style styleGray = outputArea.addStyle("Gray", null);
 		StyleConstants.setForeground(styleGray, Color.GRAY);
 		try {

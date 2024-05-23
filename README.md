@@ -10,26 +10,18 @@ Examples of Java Desktop application connecting to cloud services using their HT
 ## Chatbot powered by OpenAI API
 Run it as:
 ```
-java -jar javiergs.openai.ChatbotMain
+java -jar javiergs.Main
 ```
 
 ### User Interface
 A text area for the chatbot output, a text field for the user input, and a button to send the request.
-<img width="512" src="https://github.com/CSC308/Cloud-Services/assets/3814755/998616fb-8a7a-462e-820c-f6042e921587">
+<p align="center">
+<img width="600" src="https://github.com/CSC3100/Cloud-Services/assets/3814755/e4b52c43-2917-435f-a808-61ad2ade78d6">
+</p>
+
 
 ### Blueprint
 A drafted class diagram of the current release is as follows:<br>
-
-<img src="https://github.com/CSC308/Cloud-Services/assets/3814755/efc12e88-1fc8-496c-827c-2eeaa702eab8">
-
-## Maps powered by Bing Maps API
-Run it as:
-```
-
-```
-
-## Weather Report powered by AccuWeather
-Run it as:
-```
-
-```
+<p align="center">
+<img width="600" src="https://github.com/CSC3100/Cloud-Services/assets/3814755/c996365e-2069-4ba7-bb3a-56d8bd55140a">
+</p>

@@ -17,10 +17,10 @@ import java.util.Properties;
  */
 public class GithubUpload {
 	
-	private static final String OWNER = "javiergs";
-	private static final String REPO = "GameOfLife";
+	private static final String OWNER = "OWNER";
+	private static final String REPO = "REPO";
 	private static final String BRANCH = "main";
-	private static final String FILE_PATH = "sample_data_file.csv";
+	private static final String FILE_PATH = "FILE.csv";
 	
 	public static void main(String[] args) throws IOException {
 		GithubUpload fileUploader = new GithubUpload();

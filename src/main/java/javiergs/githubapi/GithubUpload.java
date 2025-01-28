@@ -15,7 +15,7 @@ import java.util.Properties;
  * @author javiergs
  * @version 1.0
  */
-public class GithubMain {
+public class GithubUpload {
 	
 	private static final String OWNER = "javiergs";
 	private static final String REPO = "GameOfLife";
@@ -23,10 +23,10 @@ public class GithubMain {
 	private static final String FILE_PATH = "sample_data_file.csv";
 	
 	public static void main(String[] args) throws IOException {
-		GithubMain fileUploader = new GithubMain();
+		GithubUpload fileUploader = new GithubUpload();
 	}
 	
-	public GithubMain() throws IOException {
+	public GithubUpload() throws IOException {
 		String content = getLocalFileContent(FILE_PATH);
 		if (content != null)
 			uploadFileToGitHub(OWNER, REPO, BRANCH, FILE_PATH, content);
